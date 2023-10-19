@@ -13,3 +13,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 Jenkin intergrates the process to provide Continuous Integraton and continuous deployment
+To increase the speed of deployment and software delivery 
